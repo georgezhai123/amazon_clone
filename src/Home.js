@@ -16,33 +16,19 @@ function Home() {
             id="08012021"
             title="Biubiu: the British long hair"
             price={19.99}
-            image="http://fluffysweetie.com/skin/style/images/a1.jpg"
+            image="http://fluffysweetie.com/skin/style/images/a2.jpg"
             rating={5}
           />
           <Product
             title="Biubiu: the British long hair"
             price={19.99}
-            image="http://fluffysweetie.com/skin/style/images/a1.jpg"
+            image="http://fluffysweetie.com/skin/style/images/a2.jpg"
             rating={5}
           />
           <Product
             title="Biubiu: the British long hair"
             price={19.99}
-            image="http://fluffysweetie.com/skin/style/images/a1.jpg"
-            rating={5}
-          />
-        </div>
-        <div className="home_row">
-          <Product
-            title="Biubiu: the British long hair"
-            price={19.99}
-            image="http://fluffysweetie.com/skin/style/images/a1.jpg"
-            rating={5}
-          />
-          <Product
-            title="Biubiu: the British long hair"
-            price={19.99}
-            image="http://fluffysweetie.com/skin/style/images/a1.jpg"
+            image="http://fluffysweetie.com/skin/style/images/a2.jpg"
             rating={5}
           />
         </div>
@@ -50,7 +36,21 @@ function Home() {
           <Product
             title="Biubiu: the British long hair"
             price={19.99}
-            image="http://fluffysweetie.com/skin/style/images/a1.jpg"
+            image="http://fluffysweetie.com/skin/style/images/a2.jpg"
+            rating={5}
+          />
+          <Product
+            title="Biubiu: the British long hair"
+            price={19.99}
+            image="http://fluffysweetie.com/skin/style/images/a2.jpg"
+            rating={5}
+          />
+        </div>
+        <div className="home_row">
+          <Product
+            title="Biubiu: the British long hair"
+            price={19.99}
+            image="http://fluffysweetie.com/skin/style/images/a2.jpg"
             rating={5}
           />
         </div>
