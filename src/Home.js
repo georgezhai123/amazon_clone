@@ -1,6 +1,7 @@
 import React from "react";
 import "./Home.css";
 import Product from "./Product";
+import biubiu from "./biubiu.jpg";
 
 function Home() {
   return (
@@ -16,33 +17,19 @@ function Home() {
             id="08012021"
             title="Biubiu: the British long hair"
             price={19.99}
-            image="http://fluffysweetie.com/skin/style/images/a2.jpg"
+            image={biubiu}
             rating={5}
           />
           <Product
             title="Biubiu: the British long hair"
             price={19.99}
-            image="http://fluffysweetie.com/skin/style/images/a2.jpg"
+            image={biubiu}
             rating={5}
           />
           <Product
             title="Biubiu: the British long hair"
             price={19.99}
-            image="http://fluffysweetie.com/skin/style/images/a2.jpg"
-            rating={5}
-          />
-        </div>
-        <div className="home_row">
-          <Product
-            title="Biubiu: the British long hair"
-            price={19.99}
-            image="http://fluffysweetie.com/skin/style/images/a2.jpg"
-            rating={5}
-          />
-          <Product
-            title="Biubiu: the British long hair"
-            price={19.99}
-            image="http://fluffysweetie.com/skin/style/images/a2.jpg"
+            image={biubiu}
             rating={5}
           />
         </div>
@@ -50,7 +37,21 @@ function Home() {
           <Product
             title="Biubiu: the British long hair"
             price={19.99}
-            image="http://fluffysweetie.com/skin/style/images/a2.jpg"
+            image={biubiu}
+            rating={5}
+          />
+          <Product
+            title="Biubiu: the British long hair"
+            price={19.99}
+            image={biubiu}
+            rating={5}
+          />
+        </div>
+        <div className="home_row">
+          <Product
+            title="Biubiu: the British long hair"
+            price={19.99}
+            image={biubiu}
             rating={5}
           />
         </div>
