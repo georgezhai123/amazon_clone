@@ -16,7 +16,7 @@ function Checkout() {
           alt=""
         ></img>
         <div>
-          <h3>Hello{!user ? " Guest" : user.email}</h3>
+          <h3>Hello,{!user ? "guest" : user.email}</h3>
           <h2 className="checkout_title">Shopping Cart</h2>
           {Cart.map((item) => (
             <CheckoutProduct
