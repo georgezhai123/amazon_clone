@@ -14,33 +14,21 @@ function Home() {
         ></img>
         <div className="home_row">
           <Product
-            id="08012021"
+            id={8012021}
             title="Biubiu: the British long hair"
             price={19.99}
             image={biubiu}
             rating={5}
           />
           <Product
+            id={8012021}
             title="Biubiu: the British long hair"
             price={19.99}
             image={biubiu}
             rating={5}
           />
           <Product
-            title="Biubiu: the British long hair"
-            price={19.99}
-            image={biubiu}
-            rating={5}
-          />
-        </div>
-        <div className="home_row">
-          <Product
-            title="Biubiu: the British long hair"
-            price={19.99}
-            image={biubiu}
-            rating={5}
-          />
-          <Product
+            id={8012021}
             title="Biubiu: the British long hair"
             price={19.99}
             image={biubiu}
@@ -49,6 +37,23 @@ function Home() {
         </div>
         <div className="home_row">
           <Product
+            id={8012021}
+            title="Biubiu: the British long hair"
+            price={19.99}
+            image={biubiu}
+            rating={5}
+          />
+          <Product
+            id={8012021}
+            title="Biubiu: the British long hair"
+            price={19.99}
+            image={biubiu}
+            rating={5}
+          />
+        </div>
+        <div className="home_row">
+          <Product
+            id={8012021}
             title="Biubiu: the British long hair"
             price={19.99}
             image={biubiu}
